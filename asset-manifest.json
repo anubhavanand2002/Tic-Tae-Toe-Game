@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tic-Tae-Toe-Game/static/css/main.51108146.css",
+    "main.js": "/Tic-Tae-Toe-Game/static/js/main.dc1db406.js",
+    "static/media/logo.svg": "/Tic-Tae-Toe-Game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tic-Tae-Toe-Game/index.html",
+    "main.51108146.css.map": "/Tic-Tae-Toe-Game/static/css/main.51108146.css.map",
+    "main.dc1db406.js.map": "/Tic-Tae-Toe-Game/static/js/main.dc1db406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51108146.css",
+    "static/js/main.dc1db406.js"
+  ]
+}
